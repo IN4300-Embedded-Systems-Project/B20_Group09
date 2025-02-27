@@ -18,10 +18,15 @@ The proposed system comprises the HC-SR04 ultrasonic sensor, Arduino Nano, and a
 
 ## Working Principle
 •	The HC-SR04 ultrasonic sensor sends out an ultrasonic pulse.
+
 •	The pulse bounces back upon hitting an obstacle.
+
 •	The sensor calculates the time taken for the pulse to return.
+
 •	The Arduino Nano processes the time delay and converts it into distance using the formula;
-  Distance = (Time × Speed of Sound )/2
+
+        Distance = (Time × Speed of Sound )/2
+  
 •	The calculated distance is displayed on the LCD/OLED screen.
 
 ## Circuit Diagram
