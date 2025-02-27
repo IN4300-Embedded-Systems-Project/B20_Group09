@@ -23,7 +23,7 @@ The proposed system comprises the HC-SR04 ultrasonic sensor, Arduino Nano, and a
 
 •	The sensor calculates the time taken for the pulse to return.
 
-•	The Arduino Nano processes the time delay and converts it into distance using the formula;
+•	The Arduino Uno processes the time delay and converts it into distance using the formula;
 
         Distance = (Time × Speed of Sound )/2
   
