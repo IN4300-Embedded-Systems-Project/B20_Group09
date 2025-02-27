@@ -12,9 +12,9 @@ The proposed system comprises the HC-SR04 ultrasonic sensor, Arduino Nano, and a
 | ------------- | ------------- |
 | HC-SR04 Ultrasonic Sensor  | Measures the distance to an object by emitting ultrasonic waves and calculating the time delay of the echo.  |
 | Arduino Uno  | Acts as the central processing unit to process sensor data and convert it into distance values.  |
-| Display Module  | Shows the measured distance to the user  |
+| 16x2 Display Module  | Shows the measured distance to the user  |
 | Laser Dot Diode  | Projects a laser dot in the direction of the measurement to visually guide the user.  |
-| Power Supply  | Provides power to the Arduino and components.  |
+| 9V Power Supply  | Provides power to the Arduino and components.  |
 
 ## Working Principle
 •	The HC-SR04 ultrasonic sensor sends out an ultrasonic pulse.
